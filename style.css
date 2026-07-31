@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 24px;
+}
+body{
+    background-color: antiquewhite ;
+    color: darkgreen;
+}
+#Recepies-List{
+    width: 500px;
+    height: 175px;
+    border: 2.5px solid;
+    border-radius: 15px;
+    background-color: bisque ;
+    padding: 10px;
+    margin: 100px auto;
+}
+li{
+    margin: 10px 50px;
+    font-size: 24px;
+}
+a{
+    color: darkgreen;
+}
